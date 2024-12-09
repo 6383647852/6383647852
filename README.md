@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm HARISH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from TamilNadu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=6383647852&label=Profile%20views&color=0e75b6&style=flat" alt="6383647852" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **baskarharish2019@gmail.com**
 
-- ⚡ Fun fact **Hobbies:Gaming**
+- ⚡ Fun fact **Hobbies:Gaming,Desining**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
